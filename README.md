@@ -1,5 +1,5 @@
 
-#Tic-Tac-Toe
+# Tic-Tac-Toe
 
 ¡Bienvenido a Tic-Tac-Toe! Esta aplicación te permite disfrutar de un clásico juego de mesa contra un oponente.
 
