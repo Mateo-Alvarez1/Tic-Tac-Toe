@@ -20,7 +20,7 @@ return (
               </header>
     
               <footer>
-                <button onClick = { resetGame } >Reset Game</button>
+                <button onClick = { resetGame } >Reiniciar juego</button>
               </footer>
     
             </div>

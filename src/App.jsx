@@ -81,7 +81,7 @@ export const App = () => {
       <WinnerModal resetGame={resetGame} winner={winner} />
 
       <p>
-          <small>Develop by <span> @mateoAlvarez</span></small>
+          <small>Develop by <span><a href="https://github.com/Mateo-Alvarez1/Tic-Tac-Toe">@mateoAlvarez</a></span></small>
       </p>
 
     </main>

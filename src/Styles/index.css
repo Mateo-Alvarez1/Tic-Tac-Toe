@@ -147,6 +147,7 @@ p{
   font-weight: 200;
 }
 
-span{
+a{
+  text-decoration: none;
   color: rgb(243, 181, 46)
 }
