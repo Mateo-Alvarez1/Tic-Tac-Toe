@@ -80,6 +80,9 @@ export const App = () => {
 
       <WinnerModal resetGame={resetGame} winner={winner} />
 
+      <p>
+          <small>Develop by <span> @mateoAlvarez</span></small>
+      </p>
 
     </main>
 

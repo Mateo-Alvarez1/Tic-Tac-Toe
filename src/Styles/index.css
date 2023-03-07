@@ -139,3 +139,14 @@ body {
   cursor: pointer;
   font-size: 48px;
 }
+
+
+p{
+  margin-top: 35px;
+  letter-spacing: 1px;
+  font-weight: 200;
+}
+
+span{
+  color: rgb(243, 181, 46)
+}
